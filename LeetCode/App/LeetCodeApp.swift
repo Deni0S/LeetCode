@@ -4,7 +4,7 @@ import SwiftUI
 struct LeetCodeApp: App {
     var body: some Scene {
         WindowGroup {
-            LeetCodeContentView()
+            ContentView()
         }
     }
 }
